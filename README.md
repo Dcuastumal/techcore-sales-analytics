@@ -37,6 +37,8 @@ techcore-sales-analytics/
 │   └── modelo_relacional.png
 ├── Avance_3/
 │   └── Avance_3_Dashboard_Interactivo.pbix
+├── Documentacion/
+│   └── README.md
 ├── LICENSE
 └── README.md
 ```
